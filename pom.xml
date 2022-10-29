@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.210.123.132:8081/repository/tesla-fe-snapshot/</url>
+		    <url>http://44.200.32.54:1000/repository/jenkins-docker/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
